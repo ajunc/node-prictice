@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^26.3.0",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^26.4.1",
+    "regenerator-runtime": "^0.13.7"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
